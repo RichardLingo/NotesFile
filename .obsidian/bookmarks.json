@@ -55,6 +55,11 @@
           "type": "file",
           "ctime": 1704170482519,
           "path": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1728653021957,
+          "path": "Subjects/日常管理工具/电脑系统/MacOS 访问 Windows SSH Server 配置过程.md"
         }
       ],
       "title": "常用操作"
@@ -80,7 +85,7 @@
         },
         {
           "type": "file",
-          "path": "Study/学习多主体强化学习.md",
+          "path": "Study/学习多智能体强化学习.md",
           "ctime": 1683299002878
         },
         {
