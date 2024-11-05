@@ -1,14 +1,13 @@
 ---
-title: 原因：{{title}}_{{date:YYYYMMDDHHmmss}}
+title: 原因：{{title}}-{{date:YYYYMMDDHHmmss}}
 authors: Ethan Lin
 year: {{date:YYYY-MM-DD}}
 tags:
-  - 类型/笔记 
-  - 日期/{{date:YYYY-MM-DD}} 
+  - 类型/笔记
+  - 日期/{{date:YYYY-MM-DD}}
   - 类型/运作
   - 运作/原因
-alias:
-  - {{title}}
+aliases:
 ---
-# 原因：{{title}}_{{date:YYYYMMDDHHmmss}}
+# 原因：{{title}}-{{date:YYYYMMDDHHmmss}}
 

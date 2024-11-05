@@ -1,5 +1,5 @@
 ---
-title: 交流：{{title}}_{{date:YYYYMMDDHHmmss}}
+title: 交流：{{title}}-{{date:YYYYMMDDHHmmss}}
 authors: Ethan Lin
 year: {{date:YYYY-MM-DD}}
 tags:
@@ -11,7 +11,7 @@ tags:
 alias:
   - {{title}}
 ---
-# 交流：{{title}}_{{date:YYYYMMDDHHmmss}}
+# 交流：{{title}}-{{date:YYYYMMDDHHmmss}}
 
 
 

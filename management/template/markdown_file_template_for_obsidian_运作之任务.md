@@ -1,5 +1,5 @@
 ---
-title: 任务：{{title}}_{{date:YYYYMMDDHHmmss}}
+title: 任务：{{title}}-{{date:YYYYMMDDHHmmss}}
 authors: Ethan Lin
 year: {{date:YYYY-MM-DD}}
 tags:
@@ -10,5 +10,5 @@ tags:
 alias:
   - {{title}}
 ---
-# 任务：{{title}}_{{date:YYYYMMDDHHmmss}}
+# 任务：{{title}}-{{date:YYYYMMDDHHmmss}}
 
