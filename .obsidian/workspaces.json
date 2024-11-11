@@ -16007,7 +16007,1288 @@
       },
       "active": "8e9fa928aa3d2eb7",
       "mtime": "2024-11-11T14:07:32+08:00"
+    },
+    "艺术": {
+      "main": {
+        "id": "7e467fc4fa9fb681",
+        "type": "split",
+        "children": [
+          {
+            "id": "7eecbea521c00d9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "844679e5393bab09",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "8e9fa928aa3d2eb7",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/Study.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Study"
+                }
+              },
+              {
+                "id": "576f3b5114437956",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/学习多媒体艺术.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "学习多媒体艺术"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "00ad4d82c55c8352",
+        "type": "split",
+        "children": [
+          {
+            "id": "c28a7cbc3190435a",
+            "type": "tabs",
+            "dimension": 63.704819277108435,
+            "children": [
+              {
+                "id": "824387bb220d68ce",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTimeReverse"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "74b73d35e0ab03a6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "702743aca2101d38",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": false
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "ebca7f48fc6d398e",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "fa713e4828220d0a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "c656b1db00e5df40",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "2e57906a279edeb0",
+            "type": "tabs",
+            "dimension": 36.295180722891565,
+            "children": [
+              {
+                "id": "e163f4fc403969f9",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Study/学习多媒体艺术.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 学习多媒体艺术"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 332.5
+      },
+      "right": {
+        "id": "aade5a834a514cf8",
+        "type": "split",
+        "children": [
+          {
+            "id": "0cc2419122696f72",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2506df44a9c3dde9",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for 比较 Numba、PyTorch 和 Dask"
+                }
+              },
+              {
+                "id": "d3deec2b03120e7d",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "13cb232ab39190fc",
+                "type": "leaf",
+                "state": {
+                  "type": "online.larslockefeer.obsidian-plugin-todo",
+                  "state": {},
+                  "icon": "checkmark",
+                  "title": "Todo"
+                }
+              },
+              {
+                "id": "20878bf818f5963d",
+                "type": "leaf",
+                "state": {
+                  "type": "QUICKSHARE_SIDE_VIEW",
+                  "state": {},
+                  "icon": "cloud",
+                  "title": "QuickShare"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "8ba37c95ab549354",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f975bdba76e1287d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 比较 Numba、PyTorch 和 Dask"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3266e88a82c0a33d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "249232b3ccb822b7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 比较 Numba、PyTorch 和 Dask"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d3c4389601fd505b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ba65f30fa943ad4e",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "path:Thoughts",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8323327
+                          }
+                        },
+                        {
+                          "query": "path:Notes",
+                          "color": {
+                            "a": 1,
+                            "rgb": 0
+                          }
+                        },
+                        {
+                          "query": "path:Reference",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9389312
+                          }
+                        },
+                        {
+                          "query": "path:Collection",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13619151
+                          }
+                        },
+                        {
+                          "query": "path:Subjects",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16772864
+                          }
+                        },
+                        {
+                          "query": "path:Study",
+                          "color": {
+                            "a": 1,
+                            "rgb": 65535
+                          }
+                        },
+                        {
+                          "query": "path:Projects/YeeGames_design",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16711680
+                          }
+                        },
+                        {
+                          "query": "path:Projects/SystemicRisk_project",
+                          "color": {
+                            "a": 1,
+                            "rgb": 65283
+                          }
+                        },
+                        {
+                          "query": "path:Projects/EntelechySystem_theory",
+                          "color": {
+                            "a": 1,
+                            "rgb": 255
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -1.1,
+                      "nodeSizeMultiplier": 3.25301920572917,
+                      "lineSizeMultiplier": 5,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.6702453111878931,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of 比较 Numba、PyTorch 和 Dask"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 327.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "zk-prefixer:Create new unique note": false,
+          "random-note:Open random note": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "576f3b5114437956",
+      "mtime": "2024-11-11T15:17:16+08:00"
+    },
+    "bevy": {
+      "main": {
+        "id": "7e467fc4fa9fb681",
+        "type": "split",
+        "children": [
+          {
+            "id": "7eecbea521c00d9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "844679e5393bab09",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "8e9fa928aa3d2eb7",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/Study.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Study"
+                }
+              },
+              {
+                "id": "576f3b5114437956",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/学习多媒体艺术.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "学习多媒体艺术"
+                }
+              },
+              {
+                "id": "877edf9d0847ea1e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/Codes/Languages/Rust/Rust 基础.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Rust 基础"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "00ad4d82c55c8352",
+        "type": "split",
+        "children": [
+          {
+            "id": "c28a7cbc3190435a",
+            "type": "tabs",
+            "dimension": 63.704819277108435,
+            "children": [
+              {
+                "id": "824387bb220d68ce",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTimeReverse"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "74b73d35e0ab03a6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "702743aca2101d38",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": false
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "ebca7f48fc6d398e",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "fa713e4828220d0a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "c656b1db00e5df40",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "2e57906a279edeb0",
+            "type": "tabs",
+            "dimension": 36.295180722891565,
+            "children": [
+              {
+                "id": "e163f4fc403969f9",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Subjects/Codes/Languages/Rust/Rust 基础.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Rust 基础"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 332.5
+      },
+      "right": {
+        "id": "aade5a834a514cf8",
+        "type": "split",
+        "children": [
+          {
+            "id": "0cc2419122696f72",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2506df44a9c3dde9",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for 比较 Numba、PyTorch 和 Dask"
+                }
+              },
+              {
+                "id": "d3deec2b03120e7d",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "13cb232ab39190fc",
+                "type": "leaf",
+                "state": {
+                  "type": "online.larslockefeer.obsidian-plugin-todo",
+                  "state": {},
+                  "icon": "checkmark",
+                  "title": "Todo"
+                }
+              },
+              {
+                "id": "20878bf818f5963d",
+                "type": "leaf",
+                "state": {
+                  "type": "QUICKSHARE_SIDE_VIEW",
+                  "state": {},
+                  "icon": "cloud",
+                  "title": "QuickShare"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "8ba37c95ab549354",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f975bdba76e1287d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 比较 Numba、PyTorch 和 Dask"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3266e88a82c0a33d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "249232b3ccb822b7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 比较 Numba、PyTorch 和 Dask"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d3c4389601fd505b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ba65f30fa943ad4e",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "path:Thoughts",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8323327
+                          }
+                        },
+                        {
+                          "query": "path:Notes",
+                          "color": {
+                            "a": 1,
+                            "rgb": 0
+                          }
+                        },
+                        {
+                          "query": "path:Reference",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9389312
+                          }
+                        },
+                        {
+                          "query": "path:Collection",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13619151
+                          }
+                        },
+                        {
+                          "query": "path:Subjects",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16772864
+                          }
+                        },
+                        {
+                          "query": "path:Study",
+                          "color": {
+                            "a": 1,
+                            "rgb": 65535
+                          }
+                        },
+                        {
+                          "query": "path:Projects/YeeGames_design",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16711680
+                          }
+                        },
+                        {
+                          "query": "path:Projects/SystemicRisk_project",
+                          "color": {
+                            "a": 1,
+                            "rgb": 65283
+                          }
+                        },
+                        {
+                          "query": "path:Projects/EntelechySystem_theory",
+                          "color": {
+                            "a": 1,
+                            "rgb": 255
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -1.1,
+                      "nodeSizeMultiplier": 3.25301920572917,
+                      "lineSizeMultiplier": 5,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.6702453111878931,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of 比较 Numba、PyTorch 和 Dask"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 327.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "zk-prefixer:Create new unique note": false,
+          "random-note:Open random note": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "877edf9d0847ea1e",
+      "mtime": "2024-11-11T15:18:29+08:00"
+    },
+    "DOTS": {
+      "main": {
+        "id": "7e467fc4fa9fb681",
+        "type": "split",
+        "children": [
+          {
+            "id": "7eecbea521c00d9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "844679e5393bab09",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "8e9fa928aa3d2eb7",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/Study.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Study"
+                }
+              },
+              {
+                "id": "576f3b5114437956",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/学习多媒体艺术.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "学习多媒体艺术"
+                }
+              },
+              {
+                "id": "4bca7a91a5d6028e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Unity3D第三方插件Agent Navigation学习笔记"
+                }
+              },
+              {
+                "id": "fda36afa5256e3c6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/游戏学/DOTS/DOTS 学习笔记.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "DOTS 学习笔记"
+                }
+              },
+              {
+                "id": "c7d46938d408e0de",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/游戏学/DOTS/DOTS 官方示例学习笔记.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "DOTS 官方示例学习笔记"
+                }
+              },
+              {
+                "id": "a0c9c3f3befc708b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/游戏学/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "各种数据类型之赋值方式：引用、复制？"
+                }
+              },
+              {
+                "id": "2c278a9b2305da7b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/游戏学/DOTS/DOTS 之 Blob Asset.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "DOTS 之 Blob Asset"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "00ad4d82c55c8352",
+        "type": "split",
+        "children": [
+          {
+            "id": "c28a7cbc3190435a",
+            "type": "tabs",
+            "dimension": 63.704819277108435,
+            "children": [
+              {
+                "id": "824387bb220d68ce",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTimeReverse"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "74b73d35e0ab03a6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "702743aca2101d38",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": false
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "ebca7f48fc6d398e",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "fa713e4828220d0a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "c656b1db00e5df40",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "2e57906a279edeb0",
+            "type": "tabs",
+            "dimension": 36.295180722891565,
+            "children": [
+              {
+                "id": "e163f4fc403969f9",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Subjects/游戏学/Unity3D/各种数据类型之赋值方式：引用、复制？.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 各种数据类型之赋值方式：引用、复制？"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 332.5
+      },
+      "right": {
+        "id": "aade5a834a514cf8",
+        "type": "split",
+        "children": [
+          {
+            "id": "0cc2419122696f72",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2506df44a9c3dde9",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for 比较 Numba、PyTorch 和 Dask"
+                }
+              },
+              {
+                "id": "d3deec2b03120e7d",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "13cb232ab39190fc",
+                "type": "leaf",
+                "state": {
+                  "type": "online.larslockefeer.obsidian-plugin-todo",
+                  "state": {},
+                  "icon": "checkmark",
+                  "title": "Todo"
+                }
+              },
+              {
+                "id": "20878bf818f5963d",
+                "type": "leaf",
+                "state": {
+                  "type": "QUICKSHARE_SIDE_VIEW",
+                  "state": {},
+                  "icon": "cloud",
+                  "title": "QuickShare"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "8ba37c95ab549354",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f975bdba76e1287d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 比较 Numba、PyTorch 和 Dask"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3266e88a82c0a33d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "249232b3ccb822b7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 比较 Numba、PyTorch 和 Dask"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d3c4389601fd505b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ba65f30fa943ad4e",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "path:Thoughts",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8323327
+                          }
+                        },
+                        {
+                          "query": "path:Notes",
+                          "color": {
+                            "a": 1,
+                            "rgb": 0
+                          }
+                        },
+                        {
+                          "query": "path:Reference",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9389312
+                          }
+                        },
+                        {
+                          "query": "path:Collection",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13619151
+                          }
+                        },
+                        {
+                          "query": "path:Subjects",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16772864
+                          }
+                        },
+                        {
+                          "query": "path:Study",
+                          "color": {
+                            "a": 1,
+                            "rgb": 65535
+                          }
+                        },
+                        {
+                          "query": "path:Projects/YeeGames_design",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16711680
+                          }
+                        },
+                        {
+                          "query": "path:Projects/SystemicRisk_project",
+                          "color": {
+                            "a": 1,
+                            "rgb": 65283
+                          }
+                        },
+                        {
+                          "query": "path:Projects/EntelechySystem_theory",
+                          "color": {
+                            "a": 1,
+                            "rgb": 255
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -1.1,
+                      "nodeSizeMultiplier": 3.25301920572917,
+                      "lineSizeMultiplier": 5,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.6702453111878931,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of 比较 Numba、PyTorch 和 Dask"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 327.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "zk-prefixer:Create new unique note": false,
+          "random-note:Open random note": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "a0c9c3f3befc708b",
+      "mtime": "2024-11-11T15:27:42+08:00"
     }
   },
-  "active": "all"
+  "active": "bevy"
 }

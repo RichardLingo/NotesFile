@@ -542,7 +542,6 @@
   "workspaces:save": [
     {
       "modifiers": [
-        "Alt",
         "Mod"
       ],
       "key": "S"
@@ -555,5 +554,6 @@
       ],
       "key": "L"
     }
-  ]
+  ],
+  "editor:save-file": []
 }
