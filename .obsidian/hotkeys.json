@@ -538,5 +538,22 @@
       ],
       "key": "`"
     }
+  ],
+  "workspaces:save": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "workspaces:load": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
   ]
 }
