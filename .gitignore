@@ -1,6 +1,16 @@
 
 # added by Ethan Lin
 
+
+
+.obsidian*/*
+!.obsidian/workspaces.json
+!.obsidian/hotkeys.json
+!.obsidian/bookmarks.json
+
+
+
+
 #######
 Projects
 Reference
