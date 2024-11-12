@@ -2,7 +2,7 @@
  
 #解决 
 
-[[MacOS]]   
+[[Subjects/日常管理工具/电脑系统/MacOS/MacOS]]   
 
 macOS 时光机器备份加速命令
 

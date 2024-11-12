@@ -1,7 +1,7 @@
    
 #解决 
 
-[[MacOS]]
+[[Subjects/日常管理工具/电脑系统/MacOS/MacOS]]
   
 
 备份和还原Mac系统app的布局的教程
