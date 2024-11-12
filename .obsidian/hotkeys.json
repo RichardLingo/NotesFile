@@ -547,7 +547,8 @@
       "key": "S"
     }
   ],
-  "workspaces:load": [
+  "editor:save-file": [],
+  "workspaces:save-and-load": [
     {
       "modifiers": [
         "Mod"
@@ -555,5 +556,12 @@
       "key": "L"
     }
   ],
-  "editor:save-file": []
+  "bookmarks:bookmark-current-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ]
 }
