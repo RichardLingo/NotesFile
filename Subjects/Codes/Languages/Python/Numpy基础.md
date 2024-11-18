@@ -171,3 +171,7 @@ np.expand_dims(array_01, axis=1)
 
 ### 索引
 
+
+#### 数组切片
+
+![[Pasted image 20211101195928.png]]
