@@ -12605,7 +12605,7 @@
         }
       },
       "active": "8e9fa928aa3d2eb7",
-      "mtime": "2024-11-11T13:57:52+08:00"
+      "mtime": "2024-11-13T18:04:48+08:00"
     },
     "ABM": {
       "main": {
@@ -13018,7 +13018,7 @@
         }
       },
       "active": "8d46d1f48f2eddd7",
-      "mtime": "2024-11-11T13:58:31+08:00"
+      "mtime": "2024-11-25T23:53:01+08:00"
     },
     "AGI": {
       "main": {
@@ -14487,261 +14487,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "floating": {
-        "id": "ed561f6136ae393f",
-        "type": "floating",
-        "children": [
-          {
-            "id": "6ffe7ab2849f0f25",
-            "type": "window",
-            "children": [
-              {
-                "id": "b8a4a378e855c198",
-                "type": "split",
-                "dimension": 21.25446863828405,
-                "children": [
-                  {
-                    "id": "7f29d5c8077d24b5",
-                    "type": "tabs",
-                    "dimension": 70.21857923497268,
-                    "children": [
-                      {
-                        "id": "f279a56d1e63e949",
-                        "type": "leaf",
-                        "state": {
-                          "type": "outline",
-                          "state": {
-                            "file": "Study/学习计算科学.md"
-                          },
-                          "icon": "lucide-list",
-                          "title": "Outline of 学习计算科学"
-                        }
-                      }
-                    ]
-                  },
-                  {
-                    "id": "837eb29ce18cb9a0",
-                    "type": "tabs",
-                    "dimension": 29.78142076502732,
-                    "children": [
-                      {
-                        "id": "a178165251b25473",
-                        "type": "leaf",
-                        "state": {
-                          "type": "localgraph",
-                          "state": {
-                            "file": "Study/学习计算科学.md",
-                            "options": {
-                              "collapse-filter": true,
-                              "search": "",
-                              "localJumps": 1,
-                              "localBacklinks": true,
-                              "localForelinks": true,
-                              "localInterlinks": true,
-                              "showTags": true,
-                              "showAttachments": true,
-                              "hideUnresolved": true,
-                              "collapse-color-groups": true,
-                              "colorGroups": [
-                                {
-                                  "query": "path:Thoughts",
-                                  "color": {
-                                    "a": 1,
-                                    "rgb": 8323327
-                                  }
-                                },
-                                {
-                                  "query": "path:Notes",
-                                  "color": {
-                                    "a": 1,
-                                    "rgb": 0
-                                  }
-                                },
-                                {
-                                  "query": "path:Reference",
-                                  "color": {
-                                    "a": 1,
-                                    "rgb": 9389312
-                                  }
-                                },
-                                {
-                                  "query": "path:Collection",
-                                  "color": {
-                                    "a": 1,
-                                    "rgb": 13619151
-                                  }
-                                },
-                                {
-                                  "query": "path:Subjects",
-                                  "color": {
-                                    "a": 1,
-                                    "rgb": 16772864
-                                  }
-                                },
-                                {
-                                  "query": "path:Study",
-                                  "color": {
-                                    "a": 1,
-                                    "rgb": 65535
-                                  }
-                                },
-                                {
-                                  "query": "path:Projects/YeeGames_design",
-                                  "color": {
-                                    "a": 1,
-                                    "rgb": 16711680
-                                  }
-                                },
-                                {
-                                  "query": "path:Projects/SystemicRisk_project",
-                                  "color": {
-                                    "a": 1,
-                                    "rgb": 65283
-                                  }
-                                },
-                                {
-                                  "query": "path:Projects/EntelechySystem_theory",
-                                  "color": {
-                                    "a": 1,
-                                    "rgb": 255
-                                  }
-                                }
-                              ],
-                              "collapse-display": true,
-                              "showArrow": true,
-                              "textFadeMultiplier": 0,
-                              "nodeSizeMultiplier": 2.059521484375,
-                              "lineSizeMultiplier": 5,
-                              "collapse-forces": true,
-                              "centerStrength": 0.518713248970312,
-                              "repelStrength": 10,
-                              "linkStrength": 0.6876220703125,
-                              "linkDistance": 439,
-                              "scale": 0.18337983020998444,
-                              "close": true
-                            }
-                          },
-                          "icon": "lucide-git-fork",
-                          "title": "Graph of 学习计算科学"
-                        }
-                      }
-                    ]
-                  }
-                ],
-                "direction": "horizontal"
-              },
-              {
-                "id": "aaccb8a4d3bb3f1e",
-                "type": "tabs",
-                "dimension": 16.99707507312317,
-                "children": [
-                  {
-                    "id": "a01d44297787c483",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Notes/经济方法ABM建模相关工具.md",
-                        "mode": "preview",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "经济方法ABM建模相关工具"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "90fbd1e91ef322fd",
-                "type": "tabs",
-                "dimension": 44.78388040298992,
-                "children": [
-                  {
-                    "id": "af45b1f505278699",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Subjects/软件和工具/PettingZoo/工具包 PettingZoo 相关的一些代码文件文档.md",
-                        "mode": "preview",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "工具包 PettingZoo 相关的一些代码文件文档"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "8a5a32b02624cbbc",
-                "type": "split",
-                "dimension": 16.96457588560286,
-                "children": [
-                  {
-                    "id": "cf36588c884de019",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "46e8c978ca18f2ab",
-                        "type": "leaf",
-                        "pinned": true,
-                        "state": {
-                          "type": "backlink",
-                          "state": {
-                            "file": "Study/学习ABM建模.md",
-                            "collapseAll": false,
-                            "extraContext": false,
-                            "sortOrder": "alphabetical",
-                            "showSearch": false,
-                            "searchQuery": "",
-                            "backlinkCollapsed": false,
-                            "unlinkedCollapsed": true
-                          },
-                          "pinned": true,
-                          "icon": "links-coming-in",
-                          "title": "Backlinks for 学习ABM建模"
-                        }
-                      }
-                    ]
-                  },
-                  {
-                    "id": "e1ae7bf745f0369c",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "0bc7af9802867d1d",
-                        "type": "leaf",
-                        "pinned": true,
-                        "state": {
-                          "type": "outgoing-link",
-                          "state": {
-                            "file": "Study/学习ABM建模.md",
-                            "linksCollapsed": false,
-                            "unlinkedCollapsed": true
-                          },
-                          "pinned": true,
-                          "icon": "links-going-out",
-                          "title": "Outgoing links from 学习ABM建模"
-                        }
-                      }
-                    ]
-                  }
-                ],
-                "direction": "horizontal"
-              }
-            ],
-            "direction": "vertical",
-            "x": 78,
-            "y": 107,
-            "width": 2334,
-            "height": 1271,
-            "maximize": false,
-            "zoom": 0
-          }
-        ]
-      },
       "active": "85c071ed15a27ad9",
-      "mtime": "2024-11-11T14:00:53+08:00"
+      "mtime": "2024-11-27T20:47:44+08:00"
     },
     "math": {
       "main": {
@@ -14797,6 +14544,20 @@
                 }
               },
               {
+                "id": "1110816fe13bfa68",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/学习LEAN.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "学习LEAN"
+                }
+              },
+              {
                 "id": "03704e8cb2c8fbcc",
                 "type": "leaf",
                 "state": {
@@ -14841,9 +14602,23 @@
                   "icon": "lucide-file",
                   "title": "学习概率与统计"
                 }
+              },
+              {
+                "id": "10c46709177538d5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/数学与系统科学/复杂系统/级联传染.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "级联传染"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -14934,7 +14709,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 1
           },
           {
             "id": "2e57906a279edeb0",
@@ -14947,10 +14722,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Study/Study.md"
+                    "file": "Study/学习LEAN.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Study"
+                  "title": "Outline of 学习LEAN"
                 }
               }
             ]
@@ -15183,8 +14958,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "8e9fa928aa3d2eb7",
-      "mtime": "2024-11-11T13:56:56+08:00"
+      "active": "1110816fe13bfa68",
+      "mtime": "2024-11-27T20:47:39+08:00"
     },
     "IT": {
       "main": {
@@ -15282,9 +15057,65 @@
                   "icon": "lucide-file",
                   "title": "Pandas 数据结构 DataFrames 【转载】"
                 }
+              },
+              {
+                "id": "35f87c3042f85692",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/数据科学/处理数据/Numpy 索引.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Numpy 索引"
+                }
+              },
+              {
+                "id": "874e15a84e00ef38",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/数据科学/处理数据/Numpy 索引.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Numpy 索引"
+                }
+              },
+              {
+                "id": "cd5d67fbff765e50",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/数据科学/处理数据/Numpy基础.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Numpy基础"
+                }
+              },
+              {
+                "id": "cc23997f9caa2d82",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/数据科学/处理数据/Numpy 索引.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Numpy 索引"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 9
           }
         ],
         "direction": "vertical"
@@ -15375,7 +15206,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 1
           },
           {
             "id": "2e57906a279edeb0",
@@ -15388,10 +15219,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Study/学习计算机科学与技术与编程语言.md"
+                    "file": "Subjects/数据科学/处理数据/Numpy 索引.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of 学习计算机科学与技术与编程语言"
+                  "title": "Outline of Numpy 索引"
                 }
               }
             ]
@@ -15414,10 +15245,10 @@
                 "state": {
                   "type": "file-properties",
                   "state": {
-                    "file": "Study/Study.md"
+                    "file": "Subjects/数据科学/处理数据/Numpy 索引.md"
                   },
                   "icon": "lucide-info",
-                  "title": "File properties for Study"
+                  "title": "File properties for Numpy 索引"
                 }
               },
               {
@@ -15463,7 +15294,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Study/Study.md",
+                    "file": "Subjects/数据科学/处理数据/Numpy 索引.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -15473,7 +15304,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Study"
+                  "title": "Backlinks for Numpy 索引"
                 }
               }
             ]
@@ -15488,12 +15319,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Study/Study.md",
+                    "file": "Subjects/数据科学/处理数据/Numpy 索引.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from Study"
+                  "title": "Outgoing links from Numpy 索引"
                 }
               }
             ]
@@ -15508,7 +15339,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Study/Study.md",
+                    "file": "Subjects/数据科学/处理数据/Numpy 索引.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -15600,15 +15431,14 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Study"
+                  "title": "Graph of Numpy 索引"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 327.5,
-        "collapsed": true
+        "width": 327.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -15624,8 +15454,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "da67d4f37c2f79d2",
-      "mtime": "2024-11-18T11:25:18+08:00"
+      "active": "cc23997f9caa2d82",
+      "mtime": "2024-11-27T21:02:32+08:00"
     },
     "all": {
       "main": {
@@ -15663,9 +15493,53 @@
                   "icon": "lucide-file",
                   "title": "Study"
                 }
+              },
+              {
+                "id": "576f3b5114437956",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/学习多媒体艺术.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "学习多媒体艺术"
+                }
+              },
+              {
+                "id": "a4602db96f9b2ea7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/Tools/Electron/Electron 替代品.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Electron 替代品"
+                }
+              },
+              {
+                "id": "5dec7ef1c4a21646",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/日常管理工具/电脑系统/MacOS/macOS 时光机器备份加速命令.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "macOS 时光机器备份加速命令"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           }
         ],
         "direction": "vertical"
@@ -15769,10 +15643,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Study/Study.md"
+                    "file": "Subjects/日常管理工具/电脑系统/MacOS/macOS 时光机器备份加速命令.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Study"
+                  "title": "Outline of macOS 时光机器备份加速命令"
                 }
               }
             ]
@@ -15795,10 +15669,10 @@
                 "state": {
                   "type": "file-properties",
                   "state": {
-                    "file": "Study/Study.md"
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md"
                   },
                   "icon": "lucide-info",
-                  "title": "File properties for Study"
+                  "title": "File properties for 比较 Numba、PyTorch 和 Dask"
                 }
               },
               {
@@ -15844,7 +15718,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Study/Study.md",
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -15854,7 +15728,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Study"
+                  "title": "Backlinks for 比较 Numba、PyTorch 和 Dask"
                 }
               }
             ]
@@ -15869,12 +15743,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Study/Study.md",
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from Study"
+                  "title": "Outgoing links from 比较 Numba、PyTorch 和 Dask"
                 }
               }
             ]
@@ -15889,7 +15763,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Study/Study.md",
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -15981,7 +15855,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Study"
+                  "title": "Graph of 比较 Numba、PyTorch 和 Dask"
                 }
               }
             ]
@@ -16005,8 +15879,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "8e9fa928aa3d2eb7",
-      "mtime": "2024-11-11T14:07:32+08:00"
+      "active": "5dec7ef1c4a21646",
+      "mtime": "2024-11-26T11:34:59+08:00"
     },
     "艺术": {
       "main": {
@@ -16461,7 +16335,6 @@
               {
                 "id": "877edf9d0847ea1e",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -16469,27 +16342,12 @@
                     "mode": "preview",
                     "source": false
                   },
-                  "pinned": true,
                   "icon": "lucide-file",
                   "title": "Rust 基础"
                 }
-              },
-              {
-                "id": "f7386fd02b288fdd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/辨析 Ref 和 引用符号.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "辨析 Ref 和 引用符号"
-                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -16593,10 +16451,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Notes/辨析 Ref 和 引用符号.md"
+                    "file": "Subjects/Codes/Languages/Rust/Rust 基础.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of 辨析 Ref 和 引用符号"
+                  "title": "Outline of Rust 基础"
                 }
               }
             ]
@@ -16829,8 +16687,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "f7386fd02b288fdd",
-      "mtime": "2024-11-18T11:25:07+08:00"
+      "active": "877edf9d0847ea1e",
+      "mtime": "2024-11-11T15:56:24+08:00"
     },
     "DOTS": {
       "main": {
@@ -17306,5 +17164,5 @@
       "mtime": "2024-11-11T15:27:42+08:00"
     }
   },
-  "active": "艺术"
+  "active": "IT"
 }

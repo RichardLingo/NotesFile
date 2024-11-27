@@ -2,9 +2,11 @@
   "baseFontSize": 15,
   "theme": "system",
   "cssTheme": "Things",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "my_markdown_style_snippets_for_obsidian_20210807"
+  ],
   "interfaceFontFamily": "Times New Roman,Songti SC,华文中宋",
   "textFontFamily": "Times New Roman,Songti SC,华文中宋",
-  "accentColor": "#7a008a",
+  "accentColor": "#cd99f0",
   "translucency": false
 }

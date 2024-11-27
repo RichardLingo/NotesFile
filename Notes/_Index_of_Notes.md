@@ -42,7 +42,7 @@
  [[Matplotlib 工具包知识点|Matplotlib 工具包知识点]]
  [[Notes/ML-Agents结合Computer Shader技术或者DOTS技术|ML-Agents结合Computer Shader技术或者DOTS技术]]
  [[Notes/Numba基础|Numba基础]]
- [[Notes/NumPy二维数组通过二维索引之后结果保持二维形状|NumPy二维数组通过二维索引之后结果保持二维形状]]
+ [[NumPy二维数组通过二维索引之后结果保持二维形状|NumPy二维数组通过二维索引之后结果保持二维形状]]
  [[Notes/Python几个PDF库比较|Python几个PDF库比较]]
  [[Notes/Python继承初始化.assets/_Index_of_Python继承初始化.assets|_Index_of_Python继承初始化.assets]]
  [[Notes/Python继承初始化|Python继承初始化]]
