@@ -14085,69 +14085,63 @@
                 }
               },
               {
-                "id": "85c071ed15a27ad9",
+                "id": "5a8d6fae0768b11e",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Study/学习计算科学.md",
-                    "mode": "source",
+                    "file": "Subjects/数据科学/处理数据/Numpy 索引.md",
+                    "mode": "preview",
                     "source": false
                   },
-                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "学习计算科学"
+                  "title": "Numpy 索引"
                 }
               },
               {
-                "id": "c20960d45de7fafb",
+                "id": "81ac6f4205300ee9",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/学习因果涌现.md",
-                    "mode": "source",
+                    "file": "Subjects/数据科学/Pandas 工具包/Pandas 常用函数.md",
+                    "mode": "preview",
                     "source": false
                   },
-                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "学习因果涌现"
+                  "title": "Pandas 常用函数"
                 }
               },
               {
-                "id": "f1fc64412edb4637",
+                "id": "932549a6f6b62acc",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Study/学习图网络.md",
+                    "file": "Subjects/数据科学/处理数据/转换数据结构与数据框.md",
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "学习图网络"
+                  "title": "转换数据结构与数据框"
                 }
               },
               {
-                "id": "fac70a037032bfcf",
+                "id": "5d4bccd3db0ddd24",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Study/学习图神经网络和组合优化.md",
-                    "mode": "source",
+                    "file": "Collection/R与Stata在计量经济学中的比较.md",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "学习图神经网络和组合优化"
+                  "title": "R与Stata在计量经济学中的比较"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 5
           }
         ],
         "direction": "vertical"
@@ -14238,7 +14232,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 1
           },
           {
             "id": "2e57906a279edeb0",
@@ -14251,10 +14245,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Study/学习计算科学.md"
+                    "file": "Collection/R与Stata在计量经济学中的比较.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of 学习计算科学"
+                  "title": "Outline of R与Stata在计量经济学中的比较"
                 }
               }
             ]
@@ -14277,10 +14271,10 @@
                 "state": {
                   "type": "file-properties",
                   "state": {
-                    "file": "Study/Study.md"
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md"
                   },
                   "icon": "lucide-info",
-                  "title": "File properties for Study"
+                  "title": "File properties for 比较 Numba、PyTorch 和 Dask"
                 }
               },
               {
@@ -14326,7 +14320,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Study/Study.md",
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -14336,7 +14330,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Study"
+                  "title": "Backlinks for 比较 Numba、PyTorch 和 Dask"
                 }
               }
             ]
@@ -14351,12 +14345,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Study/Study.md",
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from Study"
+                  "title": "Outgoing links from 比较 Numba、PyTorch 和 Dask"
                 }
               }
             ]
@@ -14371,7 +14365,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Study/Study.md",
+                    "file": "Collection/比较 Numba、PyTorch 和 Dask.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -14463,7 +14457,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Study"
+                  "title": "Graph of 比较 Numba、PyTorch 和 Dask"
                 }
               }
             ]
@@ -14487,8 +14481,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "85c071ed15a27ad9",
-      "mtime": "2024-11-27T20:47:44+08:00"
+      "active": "5d4bccd3db0ddd24",
+      "mtime": "2024-12-15T21:48:26+08:00"
     },
     "math": {
       "main": {
@@ -15029,93 +15023,9 @@
                   "icon": "lucide-file",
                   "title": "学习LeetCode"
                 }
-              },
-              {
-                "id": "8213c1a39bf7806e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Collection/辨析 DataFrame 几种切片.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "辨析 DataFrame 几种切片"
-                }
-              },
-              {
-                "id": "09d60fc176812a2f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/数据科学/Pandas 工具包/Pandas 数据结构 DataFrames 【转载】.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Pandas 数据结构 DataFrames 【转载】"
-                }
-              },
-              {
-                "id": "35f87c3042f85692",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/数据科学/处理数据/Numpy 索引.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Numpy 索引"
-                }
-              },
-              {
-                "id": "874e15a84e00ef38",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/数据科学/处理数据/Numpy 索引.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Numpy 索引"
-                }
-              },
-              {
-                "id": "cd5d67fbff765e50",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/数据科学/处理数据/Numpy基础.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Numpy基础"
-                }
-              },
-              {
-                "id": "cc23997f9caa2d82",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/数据科学/处理数据/Numpy 索引.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Numpy 索引"
-                }
               }
             ],
-            "currentTab": 9
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -15206,7 +15116,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "2e57906a279edeb0",
@@ -15454,8 +15364,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "cc23997f9caa2d82",
-      "mtime": "2024-11-27T21:02:32+08:00"
+      "active": "ebca7f48fc6d398e",
+      "mtime": "2024-12-15T15:56:48+08:00"
     },
     "all": {
       "main": {
@@ -15495,51 +15405,21 @@
                 }
               },
               {
-                "id": "576f3b5114437956",
+                "id": "7e90204e4295be36",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Study/学习多媒体艺术.md",
+                    "file": "Subjects/办公/MarkItDown 转换各种格式到 markdown.md",
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "学习多媒体艺术"
-                }
-              },
-              {
-                "id": "a4602db96f9b2ea7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/Tools/Electron/Electron 替代品.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Electron 替代品"
-                }
-              },
-              {
-                "id": "5dec7ef1c4a21646",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/日常管理工具/电脑系统/MacOS/macOS 时光机器备份加速命令.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "macOS 时光机器备份加速命令"
+                  "title": "MarkItDown 转换各种格式到 markdown"
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -15630,7 +15510,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "2e57906a279edeb0",
@@ -15643,10 +15523,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Subjects/日常管理工具/电脑系统/MacOS/macOS 时光机器备份加速命令.md"
+                    "file": "Subjects/办公/MarkItDown 转换各种格式到 markdown.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of macOS 时光机器备份加速命令"
+                  "title": "Outline of MarkItDown 转换各种格式到 markdown"
                 }
               }
             ]
@@ -15879,8 +15759,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "5dec7ef1c4a21646",
-      "mtime": "2024-11-26T11:34:59+08:00"
+      "active": "7e90204e4295be36",
+      "mtime": "2024-12-15T15:56:10+08:00"
     },
     "艺术": {
       "main": {
@@ -17164,5 +17044,5 @@
       "mtime": "2024-11-11T15:27:42+08:00"
     }
   },
-  "active": "IT"
+  "active": "CS"
 }
