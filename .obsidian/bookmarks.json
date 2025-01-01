@@ -60,6 +60,11 @@
           "type": "file",
           "ctime": 1728653021957,
           "path": "Subjects/日常管理工具/电脑系统/MacOS 访问 Windows SSH Server 配置过程.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1735532293978,
+          "path": "Subjects/Tools/VSCode/VSCode 配置实例.md"
         }
       ],
       "title": "常用操作"
@@ -240,6 +245,12 @@
           "type": "file",
           "ctime": 1731412942997,
           "path": "Subjects/日常管理工具/电脑系统/MacOS/MacOS 活动监视器指标.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1734697024804,
+          "path": "Subjects/Codes/Languages/Python/Python基础/使用pathlib替代os.path.md",
+          "subpath": "#和os功能对应的方法列表"
         }
       ],
       "title": "常用知识"
