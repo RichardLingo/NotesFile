@@ -73,8 +73,6 @@ Out: '/'
 
 先看一下os(os.path)模块里部分函数与`pathlib.Path`对应的方法吧。下面列出的这些可以直接用pathlib里面的用法代替:
 
-
-
 | os 和 os.path                                                | pathlib                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [`os.path.abspath()`](https://docs.python.org/zh-cn/3.9/library/os.path.html#os.path.abspath) | [`Path.resolve()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.resolve) |
