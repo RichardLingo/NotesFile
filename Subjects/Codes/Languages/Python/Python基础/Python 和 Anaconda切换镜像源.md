@@ -27,7 +27,7 @@ https://pypi.org/simple
 若要把 pip 源换成国内的，只需要把上面的代码改成下图这样（下图以清华大学源为例）：
 
 ```bash
-pip install markdown -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install <your-pip-package> -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 
@@ -60,4 +60,16 @@ pip config set global.index-url http://pypi.douban.com/simple/
 中国科学技术大学源：
 ```bash
 pip config set global.index-url http://pypi.mirrors.ustc.edu.cn/simple/
+```
+
+
+
+Anaconda 永久切换镜像源：
+
+```shell
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/linux-64/
+conda config --set show_channel_urls yes
 ```
